@@ -1,12 +1,11 @@
 import React from 'react';
-import Hero from "./HeroSection";
-
+import Resume from './resume'
 
 
 const App=()=>{
     return(
         <div>
-            <Hero/>
+            <Resume/>
         </div>
     )
 }
